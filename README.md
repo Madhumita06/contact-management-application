@@ -7,7 +7,7 @@ how to run the aplication
  2. then download all the files provided in github my repository into one folder and place the folder in xampp/htdocs/foldername
  3.  then type localhost/folder name/ for example if your folder name is contact management application then it should be localhost/contact management application/ in the chrome browser
  4.  then you will get the necessary application in your browser 
- 5.  please refer to the .jpg file in my repository for a clear understanding of how my application wokrs
+ 5.  please refer to the .jpg file in my repository for a clear understanding of how my application looks
  6.  ENJOY!!
 
 
